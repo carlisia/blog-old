@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://carlisia.github.io/sitemap.xml 
