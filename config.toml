@@ -1,0 +1,12 @@
+baseurl = "http://grokkingtech.io/"
+title = "grokkingtech"
+languageCode = "en-us"
+copyright = "Copyright (c) 2015, Carlisia Campos; some rights reserved."
+MetaDataFormat = "yaml"
+
+[author]
+    name = "Carlisia Campos"
+
+[indexes]
+    tag = "tags"
+    topic = "topics"

@@ -1,0 +1,66 @@
+/* default screen, non-retina */
+
+/* Sidebar */
+#logo-image {
+         background-image: url(../img/womengo_logo.png);
+         height: 0;
+         width: 0;
+         padding-bottom:115px;
+         padding-left:100px;
+         margin-left: 20px;
+         display: block;
+         background-repeat: no-repeat;
+    }
+
+/* Sidebar About section */
+
+.sidebar-about h1 {
+
+        padding: 40px 0 0 0 ;
+        font-family: "PT Sans", serif;
+        font-size: 2em;
+        line-height: 1.25;
+}
+
+.media-icons {
+        padding: 40px 0 20px 0 ;
+}
+
+#twitter-square{
+         border-radius: 10px;
+         background-image: url(../img/twitter.png);
+         height: 0;
+         width: 0;
+         padding-bottom:32px;
+         padding-left:32px;
+         margin-left: 0px;
+         display: inline-block;
+         line-height: 1;
+         background-repeat: repeat;
+}
+
+#linkein-square{
+         border-radius: 10px;
+         background-image: url(../img/linkedin.png);
+         height: 0;
+         width: 0;
+         padding-bottom:32px;
+         padding-left:32px;
+         margin-left: 10px;
+         display: inline-block;
+         line-height: 1;
+         background-repeat: repeat;
+}
+
+#github-square{
+         border-radius: 10px;
+         background-image: url(../img/github.png);
+         height: 0;
+         width: 0;
+         padding-bottom:32px;
+         padding-left:32px;
+         margin-left: 10px;
+         display: inline-block;
+         line-height: 1;
+         background-repeat: no-repeat;
+}
