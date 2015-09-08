@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>grokkingtech</title>
+    <link>http://grokkingtech.io/</link>
+    <description>Recent content on grokkingtech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2015, Carlisia Campos; some rights reserved.</copyright>
+    <atom:link href="http://grokkingtech.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>http://grokkingtech.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://grokkingtech.io/about/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;http://grokkingtech.io/static/img/gophercon.png&#34; alt=&#34;gopher-girl&#34; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;things-i-do:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Things I Do&lt;/h1&gt;
+
+&lt;h3 id=&#34;community-building:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Community building&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I am a core member of &lt;a href=&#34;http://golangbridge.org&#34; target=&#34;_blank&#34; title=&#34;gobridge&#34;&gt;GoBridge&lt;/a&gt; , a non-profit organization that focuses on programming education using Go: we work to ensure that groups of underrepresented people and people with limited access to technology have as much an opportunity to teach and learn Go as anyone else.&lt;/br&gt;&lt;/li&gt;
+&lt;li&gt;I host the &lt;a href=&#34;http://www.meetup.com/sdgophers/&#34; target=&#34;_blank&#34; title=&#34;sdgophers&#34;&gt;North County San Diego Gophers meetup&lt;/a&gt;. &lt;/br&gt;&lt;/li&gt;
+&lt;li&gt;I lead the &lt;a href=&#34;http://twitter.com/womenwhogo_sd/&#34; target=&#34;_blank&#34; title=&#34;wwg sd&#34;&gt;San Diego Women Who Go&lt;/a&gt; chapter (and am looking for more women to join in the efforts.)&lt;/li&gt;
+&lt;li&gt;I host informal networking events for the &lt;a href=&#34;http://www.meetup.com/SD-Women-Who-Go/&#34; target=&#34;_blank&#34; title=&#34;meetup wwg sd&#34;&gt;San Diego Women Who Go&lt;/a&gt;. &lt;/br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;other-things:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Other things&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I play percurssion (caixa) with the San Diego &lt;a href=&#34;http://www.sambasd.org/#!drummers/cfad&#34; target=&#34;_blank&#34; title=&#34;meetup wwg sd&#34;&gt;Super Sonic Samba School&lt;/a&gt;.&lt;/br&gt;&lt;/li&gt;
+&lt;li&gt;I have ran 2 half marathons. I can be found running along the beaches or lagoons in San Diego often.&lt;/br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;timeline:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Timeline&lt;/h1&gt;
+
+&lt;p&gt;&lt;b&gt;July 2015&lt;/b&gt; - Fell in love with Go at Gophercon&lt;/br&gt;
+&lt;b&gt;2014-now&lt;/b&gt; - Programming professionally in: Ruby&lt;/br&gt;
+&lt;b&gt;2009-2014&lt;/b&gt; - Ran my own software company building a Ruby on Rails multitenant, SaaS application. Exit: sold to business partner.&lt;/br&gt;
+&lt;b&gt;2002-2009&lt;/b&gt; - Programmed professionally in: Java, C, C#, PHP, Ruby.&lt;/br&gt;
+&lt;b&gt;2004&lt;/b&gt; - Graduated from Boston University with a MCSC degree.&lt;/br&gt;
+&lt;b&gt;2000&lt;/b&gt; - Graduated from Northeastern University with a BSBA degree.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
